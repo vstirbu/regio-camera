@@ -1,0 +1,15 @@
+{
+  "name": "regio-camera-example",
+  "version": "1.0.0",
+  "description": "Example application using regio-camera middleware",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Vlad Stirbu",
+  "license": "MIT",
+  "dependencies": {
+    "regio": "^0.2.0",
+    "regio-camera": "^1.0.0"
+  }
+}

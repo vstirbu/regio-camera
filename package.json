@@ -1,0 +1,28 @@
+{
+  "name": "regio-camera",
+  "version": "1.0.0",
+  "description": "Regio middleware for Tessel camera module",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vstirbu/regio-camera.git"
+  },
+  "keywords": [
+    "tessel",
+    "regio",
+    "camera"
+  ],
+  "author": "Vlad Stirbu <vstirbu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vstirbu/regio-camera/issues"
+  },
+  "homepage": "https://github.com/vstirbu/regio-camera",
+  "peerDependencies": {
+    "regio": "^0.2.0"
+  },
+  "dependencies": {
+    "camera-vc0706": "^0.1.7"
+  }
+}
